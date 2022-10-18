@@ -3,6 +3,16 @@ entries:
   scaffold:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-10-18T22:49:37.837959563Z"
+    description: A Helm chart for Kubernetes
+    digest: 69ea4c4fc74e5b725408e4d1e8e17ddc990633ec7e5ab1071e18900dc2bc190b
+    name: scaffold
+    type: application
+    urls:
+    - https://github.com/spectrocloud/helm-charts/releases/download/scaffold-0.1.1/scaffold-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-10-18T22:44:00.100514916Z"
     description: A Helm chart for Kubernetes
     digest: b4da95deceafb6a075fff06dc1624b0bf2ad235f4898d934ce7cbec500182676
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/spectrocloud/helm-charts/releases/download/scaffold-0.1.0/scaffold-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-18T22:44:00.100522216Z"
+generated: "2022-10-18T22:49:37.837975663Z"
