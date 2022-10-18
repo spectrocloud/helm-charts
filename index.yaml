@@ -21,4 +21,15 @@ entries:
     urls:
     - https://github.com/spectrocloud/helm-charts/releases/download/scaffold-0.1.0/scaffold-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-18T22:49:37.837975663Z"
+  stubb:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-18T23:10:19.216613324Z"
+    description: A Helm chart for Kubernetes
+    digest: ec83b1108f65f0324e3bc20398928c28acc728b38c47342911ea56087df384dc
+    name: stubb
+    type: application
+    urls:
+    - https://github.com/spectrocloud/helm-charts/releases/download/stubb-0.1.0/stubb-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-18T23:10:19.216626924Z"
