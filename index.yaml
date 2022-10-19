@@ -21,6 +21,17 @@ entries:
     urls:
     - https://github.com/spectrocloud/helm-charts/releases/download/scaffold-0.1.0/scaffold-0.1.0.tgz
     version: 0.1.0
+  spectro-todo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-19T01:03:37.324600813Z"
+    description: A Helm chart from Spectrocloud for todo-app.
+    digest: a34e7deeec9c9221b8b2e7b998eae5a4d13bc8fb6f40e9c46cb2f7abdd6dd0cf
+    name: spectro-todo
+    type: application
+    urls:
+    - https://github.com/spectrocloud/helm-charts/releases/download/spectro-todo-0.1.0/spectro-todo-0.1.0.tgz
+    version: 0.1.0
   stubb:
   - apiVersion: v2
     appVersion: 1.16.0
@@ -32,4 +43,4 @@ entries:
     urls:
     - https://github.com/spectrocloud/helm-charts/releases/download/stubb-0.1.0/stubb-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-18T23:10:19.216626924Z"
+generated: "2022-10-19T01:03:37.324610813Z"
