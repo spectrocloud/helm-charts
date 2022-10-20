@@ -1,5 +1,16 @@
 apiVersion: v1
 entries:
+  marvel-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-20T18:22:19.746233025Z"
+    description: A Helm chart for marvel characters
+    digest: 28c5616325e9cb8e43bdb7f9326431e073baf2787810f76904af2457b27c798f
+    name: marvel-app
+    type: application
+    urls:
+    - https://github.com/spectrocloud/helm-charts/releases/download/marvel-app-0.1.0/marvel-app-0.1.0.tgz
+    version: 0.1.0
   scaffold:
   - apiVersion: v2
     appVersion: 1.16.0
@@ -43,4 +54,4 @@ entries:
     urls:
     - https://github.com/spectrocloud/helm-charts/releases/download/stubb-0.1.0/stubb-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-19T01:03:37.324610813Z"
+generated: "2022-10-20T18:22:19.746302326Z"
